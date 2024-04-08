@@ -1,9 +1,19 @@
+/*practice 3 tutorial follow-along*/
+.here {
+	color: blue
+}
+
+.there {
+	display: none;
+
+}
+
 /*
 CSS controls the styling of the page.
 You can write a color in directly, or use variables.
 Try changing the color from blue to red in the
 primary color variable below.
-*/
+
 
 :root {
 	--color-primary: blue;
@@ -33,3 +43,5 @@ h1 {
 		max-width: 768px;
 	}
 }
+/*
+

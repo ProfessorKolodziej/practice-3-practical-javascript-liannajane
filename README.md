@@ -1,8 +1,8 @@
-# Final Project (Replace with your project name)
+# Virtual Museum
 
 ## Description
 
-Please add a brief description of your final project here.
+A virtual museum that user can turn into a heist mystery game to learn about modern imperial practices. 
 
 ## Project Documentation
 
